@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# SpectreHunt
+reports/
+*.log
+
+# Editors / OS
+.DS_Store
+.vscode/
+.idea/
+
+# NOTE: spectrelab/ is intentionally NOT ignored

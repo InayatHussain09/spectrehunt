@@ -1,0 +1,1 @@
+"""SpectreHunt payload package."""
