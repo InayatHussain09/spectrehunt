@@ -12,8 +12,6 @@
   ![Version](https://img.shields.io/badge/Version-5.1.0-orange.svg)
   ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-SpectreHunt also includes spectrelab/, a deliberately vulnerable PHP application for controlled testing and reproducible security research.
-
   **Developed by Inayat Hussain**  
   Red Team Operator | Offensive Security Researcher
 
@@ -36,6 +34,8 @@ Designed around five core vulnerability classes, SpectreHunt combines automated 
 | **RCE** | Remote Code Execution |
 | **Path Traversal** | Directory traversal and unintended file access |
 | **Command Injection** | Unsafe operating-system command execution |
+
+SpectreHunt also includes spectrelab/, a deliberately vulnerable PHP application for controlled testing and reproducible security research.
 ---
 
 **By:** **Inayat Hussain** 
