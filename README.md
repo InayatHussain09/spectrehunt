@@ -35,6 +35,5 @@ Designed around five core vulnerability classes, SpectreHunt combines automated 
 | **Path Traversal** | Directory traversal and unintended file access |
 | **Command Injection** | Unsafe operating-system command execution |
 
-SpectreHunt also includes `spectrelab/`, a deliberately vulnerable PHP application for controlled testing and reproducible security research.
-
+**By: Inayat Hussain (Red Team Operator , Penetration Tester )
 
