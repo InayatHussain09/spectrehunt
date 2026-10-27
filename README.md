@@ -34,6 +34,8 @@ Designed around five core vulnerability classes, SpectreHunt combines automated 
 | **RCE** | Remote Code Execution |
 | **Path Traversal** | Directory traversal and unintended file access |
 | **Command Injection** | Unsafe operating-system command execution |
+---
 
-**By: Inayat Hussain (Red Team Operator , Penetration Tester )
+**By:** **Inayat Hussain** 
+**Red Team Operator | Penetration Tester**
 
